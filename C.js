@@ -1,0 +1,1 @@
+document.write('C:/Users/Tobi/Desktop/Dev/colors.js');
